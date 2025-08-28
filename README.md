@@ -1,4 +1,4 @@
-# User Process Logger (Linux Bash)
+# Vartotojų procesų žurnalas (Linux Bash)
 
 Šis Bash skriptas surenka procesų informaciją Linux sistemoje kiekvienam realiam vartotojui ir sukuria log failus su procesų duomenimis.  
 
