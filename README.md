@@ -1,8 +1,7 @@
-# User Process Logger
-
+# Vartotojų procesų žurnalas
 Šis PowerShell skriptas surenka visus vartotojų procesus sistemoje ir generuoja atskirus log failus kiekvienam vartotojui. Log failai atidaromi „Notepad“ programoje.  
 
----
+
 
 ## Funkcionalumas
 
@@ -16,7 +15,7 @@
 - Automatiškai atidaro log failus su Notepad.  
 - Po peržiūros uždaro Notepad langus, kuriuos atidarė skriptas.  
 
----
+
 
 ## Naudojimas
 
@@ -29,7 +28,7 @@
 - **`-Username`** *(neprivalomas)* – filtruoti procesus tik nurodytam vartotojui.  
   Jei nenurodytas, logai generuojami visiems tikriems vartotojams.  
 
----
+
 
 ## Pavyzdžiai
 
