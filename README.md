@@ -1,4 +1,4 @@
-# Vartotojų procesų žurnalas
+# Vartotojų procesų žurnalas Powershell
 Šis PowerShell skriptas surenka visus vartotojų procesus sistemoje ir generuoja atskirus log failus kiekvienam vartotojui. Log failai atidaromi „Notepad“ programoje.  
 
 
